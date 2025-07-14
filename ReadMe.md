@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 My Portfolio [Portfolio](https://ermias1995.github.io/Ermias_Firdawok/)
+- 👨‍💻 My Portfolio [Portfolio](https://ermias1995.netlify.app/)
 
 - 📫 How to reach me **ermiascode@gmail.com**
 
