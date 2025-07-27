@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ermias Firdawok</h1>
-<h3 align="center">A passionate Electrical and Computer Engineering Student</h3>
+<h3 align="center">A passionate Electrical and Computer Engineering Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermias1995&label=Profile%20views&color=0e75b6&style=flat" alt="ermias1995" /> </p>
 
 - 🔭 I’m currently working on **Web applications**
-
-- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 My Portfolio [Portfolio](https://ermias1995.netlify.app/)
 
