@@ -22,13 +22,13 @@
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/ermias-firdawok-400496284" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="20" />
 </a>
 <a href="https://instagram.com/ermiasfirdawok" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
+<img src="https://skillicons.dev/icons?i=instagram" height="20" />
 </a>
 <a href="mailto:ermiascode@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="20" />
 </a>
 </p>
 
@@ -37,47 +37,34 @@
 ## 💻 Tech Stack
 
 ### 🚀 Core
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C++](https://skillicons.dev/icons?i=cpp)
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" height="30"/>
+</p>
 
 ### 🌐 Frontend
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=next)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+<p>
+<img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind" height="30"/>
+</p>
 
 ### ⚙️ Backend & APIs
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Flask](https://skillicons.dev/icons?i=flask)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask" height="30"/>
+</p>
 
 ### 🗄️ Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" height="30"/>
+</p>
 
 ### ☁️ DevOps & Tools
-![AWS](https://skillicons.dev/icons?i=aws)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Netlify](https://skillicons.dev/icons?i=netlify)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,firebase,vercel,netlify,docker,git,github" height="30"/>
+</p>
 
 ### 🤖 AI / Data
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![NumPy](https://skillicons.dev/icons?i=numpy)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![ScikitLearn](https://skillicons.dev/icons?i=sklearn)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,numpy,pandas,sklearn" height="30"/>
+</p>
 
 ## 📊 GitHub Stats
 
