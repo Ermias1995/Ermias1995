@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ermias Firdawok</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Exploring+AI+%26+RAG+Systems;Always+Learning" />
+</p>
 <h3 align="center">Full Stack Developer | Electrical & Computer Engineering Graduate</h3>
 
 <p align="center">
